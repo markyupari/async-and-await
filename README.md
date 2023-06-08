@@ -6,7 +6,7 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Async and Await
 
-This page shows how to start using 'async' functions y 'await' operator to make an asynchronous program that perfoms better when loading heavy is necessary.
+This page shows how to start using 'async' functions y 'await' operator to make an asynchronous program that perfoms better when loading heavy data is necessary.
 
 ## Usage
 
